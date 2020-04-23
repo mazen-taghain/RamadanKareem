@@ -51,6 +51,7 @@
 .video{
     width: 494px;
     margin-top: 100px;
+    animation-delay:15s;
 }
 .imgsec{
     background-image: url("pic4.jpg");
